@@ -1,0 +1,9 @@
+.bunchOfFakeLinks {
+  display: flex;
+  flex-direction: row;
+}
+
+.bunchOfFakeImages {
+  display: flex;
+  flex-direction: row;
+}
